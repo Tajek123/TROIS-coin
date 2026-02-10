@@ -1,4 +1,4 @@
-The Republic of Innes Slovenia coin. It was made from the Bitcoin blockchain as source code and modified to work on a newer Ubuntu Server version.
+The Republic of Inner Slovenia coin. It was made from the Bitcoin blockchain as source code and modified to work on a newer Ubuntu Server version.
 
 Made by a 14-year-old (literally) Taj Pocrnja Zupan, published on the 28th of November 2025 in Slovenia.
 
